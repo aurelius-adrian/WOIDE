@@ -1,2 +1,2 @@
-# WOIDE-0
+# WOIDE
 WOIDE a Word OMDoc IDE
